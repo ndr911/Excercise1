@@ -1,0 +1,27 @@
+{
+  "Word": {
+    "Apple": [
+      {
+        "Meaning": "A Fruit"
+
+      },
+      {
+        "Meaning": "A Tech Firm"
+
+      }
+    ],
+    "Table": [
+      {
+        "Meaning": "An Object"
+      },
+      {
+        "Meaning": "Contains Rows and Columns when used in Context of Computers"
+      }
+    ],
+    "Orange": [
+      {
+        "Meaning": "A Fruit"
+      }
+    ]
+  }
+}
